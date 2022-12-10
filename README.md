@@ -1,1 +1,1 @@
-# Lahu-Mane
+# STRING-METHOD
